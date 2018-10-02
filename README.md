@@ -5,6 +5,7 @@ Android mobile application that greets the user.
 
 ### App Walk-though
 <img src="hello_app.gif" width=200><br>
+<img src="hello_app_bonus.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
